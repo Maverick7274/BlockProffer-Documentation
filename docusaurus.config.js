@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'BlockProffer Documentation',
+  tagline: 'Blockchain is the future',
+  // favicon: '/img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -67,7 +67,7 @@ const config = {
       navbar: {
         title: 'Documentation',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'BlockProffer Logo',
           src: 'img/blockproffer-logo-white-text.svg',
         },
         items: [
